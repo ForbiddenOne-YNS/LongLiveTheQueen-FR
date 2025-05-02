@@ -10326,10 +10326,10 @@ Ransom them all
 Demander une rançon contre tous
 #choice:
 Ransom the rich, conscript the poor
-Demander une rançon contre les riches, enrôler de force les pauvres
+Rançonner les riches, enrôler de force les pauvres
 #choice:
 Ransom the rich, execute the poor
-Demander une rançon contre les riches, exécuter les pauvres
+Rançonner les riches, exécuter les pauvres
 #choice:
 Execute them all
 Tous les exécuter
