@@ -1533,7 +1533,7 @@ Jouer avec vos jouets\n\n
 Walk in the Gardens
 Se promener dans les jardins
 +1 Lonely\n+1Cheerful
-+1 Esseulée\n+1Cheerful
++1 Esseulée\n+1 Enjouée
 Attend Ball
 Assister à un bal
 Attend court
@@ -13966,6 +13966,8 @@ persistent.log_untranslated is true; missing translations will be prefixed\nwith
 persistent.log_untranslated est true; les traductions manquantes seront\n précédées de *** et seront inscrites dans translation_debugging.log.
 persistent.log_untranslated is false; translation logging is disabled.
 persistent.log_untranslated est false; l'enregistrement des traductions est désactivé.
+show log
+afficher le log
 # For 1.2.23 or newer:
 An error occurred loading the new language:\n%(last_exception)s
 Une erreur est survenue lors du chargement de la nouvelle langue :\n%(last_exception)s
