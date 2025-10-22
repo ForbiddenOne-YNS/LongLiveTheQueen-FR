@@ -19,7 +19,7 @@ Cette traduction permet de jouer à toutes les versions jusqu'à la 1.3.25.2
   * Un onglet "Français" devrait apparaître sous "English". Sélectionnez-le.
   * Bon voyage à Nova et Longue Vie à la Reine Élodie !
 
-### Contributeur ###
+### Contributeurs ###
 
 * Traducteur : 
   * ForbiddenOne
