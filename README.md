@@ -21,8 +21,10 @@ Cette traduction permet de jouer à toutes les versions jusqu'à la 1.3.25.2
 
 ### Contributeur ###
 
-* Traducteur et graphiste: 
+* Traducteur : 
   * ForbiddenOne
+* Graphiste : 
+  * genJ-tech
 
 ### Vous avez trouvé une erreur de traduction ? ###
 
